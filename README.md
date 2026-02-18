@@ -1,19 +1,24 @@
 # Docker-build-and-deploy
 Docker build and deploy python application using Jenkings CI/CD Pipeline
-
+===========================================
 Installed docker and jenkins, java in AWS ec2 (ubuntu)
 
 Docker installation :
 https://docs.docker.com/engine/install/ubuntu/
 
+-----------
+
 Java and Jenkins installation :
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
-All installtion on all, run below commond :
+-----------
+
+After all above installation, run below commond :
 root@ip-172-31-44-110:/home/ubuntu# sudo usermod -aG docker jenkins
 root@ip-172-31-44-110:/home/ubuntu# sudo systemctl restart jenkins
-
 root@ip-172-31-44-110:/home/ubuntu# sudo chmod 666 /var/run/docker.sock
+
+-----------
 
 Initiate to run jenkins automation script, while pushing content in github, need to set webhooks in github :
 
