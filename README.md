@@ -52,3 +52,11 @@ Outputs:
 
 
 <img width="1817" height="962" alt="docker-deploy-project-1" src="https://github.com/user-attachments/assets/9c6cd55b-c05f-4be2-8235-de7feea36cfa" />
+
+<img width="1847" height="962" alt="pushed to github, started automation -docker-deploy-project-1" src="https://github.com/user-attachments/assets/dec88a6c-b34e-4155-9f27-a5e7234f012b" />
+
+<img width="1828" height="958" alt="jenkins pipeline was succesful-docker-deploy-project-1" src="https://github.com/user-attachments/assets/ae307b01-f42a-4719-b4d1-b3ad8e9a21ca" />
+
+<img width="1813" height="771" alt="container created succefully on server-docker-deploy-project-1" src="https://github.com/user-attachments/assets/c37006c4-bd63-4c56-a1d6-cea81f89ea59" />
+
+<img width="1852" height="915" alt="for ec2pulicip3000 content is loading" src="https://github.com/user-attachments/assets/de1b5b96-4858-4fb2-b1ce-9e2cf38ca20e" />
