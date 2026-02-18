@@ -40,7 +40,15 @@ Initiate to run jenkins automation script (jenkins automation script to build an
 6) Make sure “Active” is checked
 7) Click “Add Webhook”
 
-======================================================================
+-------------
 
 in your Jenkins Job
 Build Triggers: select "GitHub hook trigger for GITScm polling"
+
+===========================================
+
+Outputs:
+
+
+
+<img width="1817" height="962" alt="docker-deploy-project-1" src="https://github.com/user-attachments/assets/9c6cd55b-c05f-4be2-8235-de7feea36cfa" />
