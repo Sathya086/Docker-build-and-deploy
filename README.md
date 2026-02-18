@@ -3,6 +3,8 @@ Docker build and deploy python application using Jenkings CI/CD Pipeline
 ===========================================
 Installed docker and jenkins, java in AWS ec2 (ubuntu)
 
+-----------
+
 Docker installation :
 https://docs.docker.com/engine/install/ubuntu/
 
