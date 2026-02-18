@@ -20,7 +20,7 @@ root@ip-172-31-44-110:/home/ubuntu# sudo chmod 666 /var/run/docker.sock
 
 -----------
 
-Initiate to run jenkins automation script, while pushing content in github, need to set webhooks in github :
+Initiate to run jenkins automation script (jenkins automation script to build and deploy container), while pushing content in github, need to set webhooks in github :
 
 1) Navigate to the “Settings” tab in GitHub Project
 2) Select the “Webhooks” option on the left menu
